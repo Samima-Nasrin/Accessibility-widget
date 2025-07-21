@@ -1,6 +1,6 @@
 # Accessibility Widget Panel
 
-A responsive, lightweight, and customizable accessibility widget designed to enhance user experience for all visitors. Built using pure HTML, CSS, and JavaScript — no frameworks required.
+A responsive, lightweight, and customizable accessibility widget designed to enhance user experience for all visitors. Built using Vue.js, HTML, CSS, and JavaScript.
 
 ## Features
 
