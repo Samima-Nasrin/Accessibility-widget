@@ -19,15 +19,15 @@ const toggleMenu = () => menuOpen.value = !menuOpen.value;
   right: 20px;
 }
 .floating-button {
-  width: 65px;
-  height: 65px;
+  width: 75px;
+  height: 75px;
   border-radius: 50%;
-  background-color: #292929;
+  background-color: #675bda;
   color: white;
   border: none;
   font-size: 24px;
   cursor: pointer;
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 4px 6px rgba(131, 133, 255, 0.7);
 }
 .floating-button i {
   font-size: 40px;
