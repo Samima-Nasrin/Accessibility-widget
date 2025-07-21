@@ -7,6 +7,7 @@ A responsive, lightweight, and customizable accessibility widget designed to enh
 - Toggle high contrast and grayscale modes
 - Text resizing: Increase / Decrease font size
 - Dyslexia-friendly font toggle
+- Text spacing-better visibility
 - UI panel with smooth slide-in/out functionality
 - Sticky, responsive header
 - Mobile-friendly and easy to integrate into any site
@@ -19,15 +20,18 @@ A responsive, lightweight, and customizable accessibility widget designed to enh
 ## File Structure
 
 ```
-my-accessibility-widget/
-├── index.html
-├── css/
-│ └── style.css
-├── js/
-│ └── script.js
+src/
 ├── assets/
-│ └── (Optional images/icons)
-└── README.md
+│ ├── logo.png
+│ ├── tab.jpg
+│ └── vue.svg
+├── components/
+│ ├── FloatingButton.vue
+│ └── MenuPanel.vue
+├── App.vue
+├── main.js
+├── style.css
+index.html
 
 ```
 
